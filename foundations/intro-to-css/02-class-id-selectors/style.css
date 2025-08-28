@@ -1,0 +1,19 @@
+.odd {
+    background-color: #ffc0cb;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.ancestor-odd {
+    font-size: 24px;
+}
+
+#blue {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#number-4 {
+    background-color: rgb(184, 233, 184);
+    font-size: 24px;
+    font-weight: bold;
+}
